@@ -1,0 +1,46 @@
+#nav {
+    height: 40px;
+    width: 300px;
+    margin-top: 20px;
+    float: right;
+}
+#search {
+    margin: 0 auto;
+    width: 400px;
+    position: relative;
+    top: 90px;
+    text-align: center;
+}
+#footer {
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+    background-color: gray;
+}
+#fLeft {
+   float:left; 
+}
+#fRight {
+    float:right;
+}
+#input {
+    margin-left: auto;
+    margin-right: auto;
+}
+#lng {
+    margin: 20px;
+    font-family: Arial 10px;
+}
+.button {
+    height: 40px;
+    width: 150px;
+}
+.text {
+    width: 400px;
+    margin: 20px;
+    margin-top: -5px
+}
+.img-circle {
+    border-radius: 10px;
+    width: 40px;
+}
